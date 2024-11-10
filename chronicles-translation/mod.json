@@ -1,0 +1,32 @@
+{	
+	"name" : "Heroes Chronicles translation pack",
+	"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localisations or using AI translation tools.",
+	"version" : "1.0.1",
+	"author" : "George King",
+	"contact" : "https://www.gog.com/en/game/heroes_chronicles_all_chapters",
+	"modType" : "Maps",
+	"depends" : [ "chronicles" ],
+	"compatibility" :
+	{
+		"min" : "1.6.0"
+	},
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release", "Polish translation in Remake is hybrid, English translation in Remake Enhanced is hybrid, Czech completely made using Heroes Launcher translator tool" ],
+		"1.0.1" : [ "Re-organising files" ]
+	},
+	"czech" : {
+		"name" : "Heroes Chronicles translation pack",
+		"description" : "Předělané kampaně Heroes Chronicles",
+		"translations" : [
+			"translation/czech.json"
+		]
+	},
+	"polish" : {
+		"name" : "Heroes Chronicles translation pack",
+		"description" : "Heroes Chronicles w polskiej wersji językowej",
+		"translations" : [
+			"translation/polish.json"
+		]
+	}
+}
