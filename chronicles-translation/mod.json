@@ -30,6 +30,13 @@
 			"translation/polish.json"
 		]
 	},
+	"russian" : {
+		"name" : "Heroes Chronicles translation pack",
+		"description" : "Мод содержит перевод \"Хроники Героев\" (Heroes Chronicles). Основан на официальной локализации компании \"Бука\".",
+		"translations" : [
+			"translation/russian.json"
+		]
+	},
 	"swedish" : {
 		"name" : "Heroes Chronicles translation pack",
 		"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localisations or using AI translation tools.",
