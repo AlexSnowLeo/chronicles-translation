@@ -1,7 +1,7 @@
 {	
 	"name" : "Heroes Chronicles translation pack",
-	"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localisations or using AI translation tools.",
-	"version" : "1.0.2",
+	"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localizations or using AI translation tools.",
+	"version" : "1.0.3",
 	"author" : "George King",
 	"contact" : "https://www.gog.com/en/game/heroes_chronicles_all_chapters",
 	"modType" : "Maps",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{
+		"1.0.3" : [ "Added Russian" ],
 		"1.0.2" : [ "Added Swedish" ],
 		"1.0.1" : [ "Re-organising files" ],
 		"1.0.0" : [ "Initial release", "Polish translation in Remake is hybrid, English translation in Remake Enhanced is hybrid, Czech completely made using Heroes Launcher translator tool" ]
@@ -31,15 +32,16 @@
 		]
 	},
 	"russian" : {
-		"name" : "Heroes Chronicles translation pack",
+		"name" : "Перевод \"Хроники Героев\" (Heroes Chronicles)",
 		"description" : "Мод содержит перевод \"Хроники Героев\" (Heroes Chronicles). Основан на официальной локализации компании \"Бука\".",
+		"author" : "AlexSnowLeo",
 		"translations" : [
 			"translation/russian.json"
 		]
 	},
 	"swedish" : {
 		"name" : "Heroes Chronicles translation pack",
-		"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localisations or using AI translation tools.",
+		"description" : "This mod contains various Heroes Chronicles translation files. Translation were incorporated from official localizations or using AI translation tools.",
 		"translations" : [
 			"translation/swedish.json"
 		]
